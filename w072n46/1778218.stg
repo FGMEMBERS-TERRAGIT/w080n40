@@ -1,0 +1,9 @@
+OBJECT_SHARED Models/Airport/ndb.ac -71.462603 46.749758 74.73 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -71.398056 46.685 -46.7 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -71.331111 46.685556 -41.05 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -71.315 46.686111 -31.6 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -71.274444 46.725 -88.98 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -71.257778 46.659722 -18.66 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -71.296667 46.748611 17.03 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -71.293889 46.74 -0.01 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -71.2964215 46.7497568 48.91 166.67

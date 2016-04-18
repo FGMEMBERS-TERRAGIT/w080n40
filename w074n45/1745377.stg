@@ -1,0 +1,12 @@
+OBJECT_SHARED Models/Airport/ndb.ac -73.656844 45.542542 32.59 180
+OBJECT_SHARED Models/Airport/ndb.ac -73.654344 45.523931 46.71 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -73.675 45.611667 -109.56 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -73.615 45.5025 43.78 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -73.595556 45.501944 23.21 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -73.595556 45.508333 78.73 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -73.591944 45.505556 156.42 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -73.5675 45.518333 -52.54 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -73.5525 45.559444 19.73 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -73.624722 45.558333 -345.76 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -73.523333 45.615833 -370.35 180
+OBJECT_STATIC PlaceVilleMarie.ac -73.569127 45.501323 31.74 70

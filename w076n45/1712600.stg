@@ -1,0 +1,13 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.852778 45.489722 140.96 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.808056 45.383333 -73.31 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.7525 45.397222 -114.75 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -75.896961 45.441653 132.96 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.7506451 45.4450716 90.38 95.07
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.7505507 45.4443249 90.64 140.62
+OBJECT_SHARED Models/Communications/Kat_7_Radio_Telescope.ac -75.90378254 45.38717243 56.17 0
+OBJECT_SHARED Models/Communications/Kat_7_Radio_Telescope.ac -75.9037614 45.3870282 56.2 0
+OBJECT_SHARED Models/Communications/Kat_7_Radio_Telescope.ac -75.90356473 45.38727679 55.79 0
+OBJECT_SHARED Models/Communications/Kat_7_Radio_Telescope.ac -75.90334949 45.38750955 55.37 0
+OBJECT_SHARED Models/Communications/Kat_7_Radio_Telescope.ac -75.90323284 45.38670331 55.53 0
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac -75.8885476 45.3973593 52.99 97.42
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac -75.86715 45.39539 52.9 229.41

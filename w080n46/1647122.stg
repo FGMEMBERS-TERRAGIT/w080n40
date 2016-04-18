@@ -1,0 +1,13 @@
+OBJECT_SHARED Models/Airport/ils.xml -79.439415 46.359909 354.43 295.33
+OBJECT_SHARED Models/Communications/radio-medium.xml -79.486389 46.335 176.55 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -79.476111 46.346944 150.4 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -79.471667 46.343056 155.31 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -79.463889 46.346111 173.17 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -79.410833 46.302778 225.73 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -79.4025 46.339167 192.97 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -79.370278 46.352222 214.77 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -79.436439 46.363928 353.97 180
+OBJECT_SHARED Models/Communications/radome-16m.xml -79.415355 46.356466 350.22 0
+OBJECT_SHARED Models/Communications/radome-16m.xml -79.414996 46.35644 349.2 0
+OBJECT_SHARED Models/Airport/localizer.xml -79.399452 46.370972 365.84 154.75
+OBJECT_SHARED Models/Airport/EIDW_Radar.ac -79.413477 46.373586 363.87 45
