@@ -1,0 +1,10 @@
+OBJECT_SHARED Models/Airport/ils.xml -71.418419 41.605678 5.92 214.93
+OBJECT_SHARED Models/Communications/radio-medium.xml -71.451667 41.566667 -156.17 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -71.428472 41.597944 -113.01 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -71.311389 41.503611 -86.12 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -71.311389 41.534167 -99.93 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -71.254444 41.584167 -80.84 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -71.405536 41.588928 2.67 180
+OBJECT_SHARED Models/Airport/marker.ac -71.42695 41.613372 10.72 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -71.408611 41.588056 -469.83 180
+OBJECT_SHARED Models/Airport/localizer.xml -71.404686 41.589514 2.45 235.11

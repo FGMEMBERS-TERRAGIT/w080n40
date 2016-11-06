@@ -1,0 +1,10 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -76.495 44.226944 -78.6 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -76.483056 44.230556 -80.65 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -76.463333 44.180833 -56.1 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -76.431667 44.2375 -52.39 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -76.417778 44.21 -68.25 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -76.427778 44.167222 -211.66 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -76.416389 44.166667 -262.26 180
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -76.420833 44.229167 72.93 2.91
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -76.384722 44.24111 72.83 298.99
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac -76.373611 44.243056 72.76 249.03

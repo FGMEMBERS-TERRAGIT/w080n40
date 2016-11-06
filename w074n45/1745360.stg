@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -73.979167 45.308889 28.43 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -73.996111 45.352778 22.35 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -73.986944 45.316667 23 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -73.986111 45.359444 25.65 180

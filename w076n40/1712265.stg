@@ -1,0 +1,16 @@
+OBJECT_SHARED Models/Power/coolingtower.xml -75.587709 40.22692 103.2 180
+OBJECT_SHARED Models/Power/coolingtower.xml -75.586736 40.226414 101.22 180
+OBJECT_SHARED Models/Airport/ils.xml -75.563853 40.238997 87.86 84.07
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.684167 40.186389 93.57 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.682222 40.188333 114.95 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.66 40.249722 -115.61 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.594444 40.224167 -68.54 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.590833 40.232222 -37.75 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -75.56 40.135556 -46.4 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -75.560267 40.222267 79.59 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -75.587222 40.223889 -374.4 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -75.549444 40.241389 -399.62 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.679722 40.242778 -427.24 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.641389 40.243333 -409.98 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.530451 40.152041 -381.95 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.530104 40.152404 -381.95 180

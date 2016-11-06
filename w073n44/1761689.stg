@@ -1,0 +1,3 @@
+OBJECT_SHARED Models/Airport/ndb.ac -72.693533 44.386667 349.56 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac -72.742222 44.383333 178.05 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -72.74 44.386944 200.43 180
