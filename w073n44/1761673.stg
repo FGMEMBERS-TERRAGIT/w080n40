@@ -133,3 +133,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -72.509042 44.132836 385.4 298.3
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -72.508944 44.132705 386.74 298.33
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -72.50435 44.126611 396.87 298.07
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -72.503301 44.125178 390.6 298.37
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -72.56347 44.20296 343.62 336.5
+# END dsf2stg

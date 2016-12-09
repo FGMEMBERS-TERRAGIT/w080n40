@@ -2,3 +2,9 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -75.221111 44.983333 -7.19 
 OBJECT_SHARED Models/Communications/radio-medium.xml -75.196944 44.896667 -20.67 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -75.146944 44.936389 -19.6 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -75.121667 44.949722 -28.03 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -75.07856 44.94704 76.99 211.43
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml -75.07829 44.94715 77.03 211.4
+# END dsf2stg

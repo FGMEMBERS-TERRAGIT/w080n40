@@ -1,2 +1,32 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -75.616667 45.033611 -20.12 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -75.560833 45 -27.09 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.62419 45.10570 80.12 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.62416 45.10571 80.12 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.62421 45.10569 80.12 0
+OBJECT_SHARED Models/lib/deciduous-tree.xml -75.62424 45.10568 80.12 270
+OBJECT_SHARED Models/lib/transformer3x3.ac -75.62378 45.10381 80.11 210
+OBJECT_SHARED Models/lib/transformer3x3.ac -75.62356 45.10496 80.11 30
+OBJECT_SHARED Models/lib/office3x10.ac -75.62646 45.10456 84.77 300
+OBJECT_SHARED Models/lib/canopy18x8.ac -75.62369 45.10493 80.11 118
+OBJECT_SHARED Models/lib/cone.ac -75.62426 45.10457 80.11 0
+OBJECT_SHARED Models/lib/cone.ac -75.62427 45.10460 80.11 0
+OBJECT_SHARED Models/lib/cone.ac -75.62446 45.10451 85.96 0
+OBJECT_SHARED Models/lib/cone.ac -75.62447 45.10453 85.96 0
+OBJECT_SHARED Models/lib/SmHangar.ac -75.62598 45.10468 85.38 121.01
+OBJECT_SHARED Models/lib/SmHangar.ac -75.62572 45.10479 85.86 121.01
+OBJECT_SHARED Models/lib/SmHangar.ac -75.62545 45.10490 86.26 121.01
+OBJECT_SHARED Models/lib/SmHangar.ac -75.62519 45.10500 86.73 121.01
+OBJECT_SHARED Models/lib/SmHangar.ac -75.62170 45.10472 80.11 295
+OBJECT_SHARED Models/lib/SmHangar.ac -75.62493 45.10511 87.21 121.01
+OBJECT_SHARED Models/lib/SmHangar.ac -75.62466 45.10522 87.61 121.01
+OBJECT_SHARED Models/lib/SmHangar.ac -75.62439 45.10533 80.11 121.01
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -75.62406 45.10370 84.20 30
+OBJECT_SHARED Models/Misc/picnic_table.ac -75.63479 45.10061 87.42 270
+OBJECT_SHARED Models/Misc/picnic_table.ac -75.63482 45.10061 87.42 270
+OBJECT_SHARED Models/Misc/picnic_table.ac -75.62372 45.10492 80.11 300
+OBJECT_SHARED Models/Misc/picnic_table.ac -75.62366 45.10494 80.11 300
+OBJECT_SHARED Models/lib/cars6.ac -75.62388 45.10499 80.11 125.01
+# END dsf2stg

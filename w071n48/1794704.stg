@@ -1,3 +1,9 @@
 OBJECT_SHARED Models/Airport/tacan.xml -70.995667 48.329489 147.54 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -70.812778 48.298611 154.92 180
 OBJECT_SHARED Models/Airport/EIDW_Radar.ac -70.997167 48.323112 122.68 45
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fboModern1.ac -70.98184 48.33406 153.34 47.45
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -70.98957 48.33422 150.56 179.6
+# END dsf2stg

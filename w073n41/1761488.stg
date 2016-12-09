@@ -55,3 +55,14 @@ OBJECT_SHARED Models/Airport/localizer.xml -72.887056 41.273731 7.54 92.9
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -72.997973 41.34457 98.26 359.96
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -72.995994 41.344569 110.65 341.02
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -72.995758 41.344431 111.55 322.09
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Vehicle/citerne.xml -72.89016 41.26942 7.00 3.01001
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -72.88402 41.26523 6.08 142.33
+OBJECT_SHARED Models/lib/MedHangar.ac -72.88337 41.26601 7.06 326.04
+#OBJECT_SHARED Models/Airport/Jetway/jetway-movable.xml -72.89048 41.26919 7.20 17.83
+OBJECT_SHARED Models/lib/MedHangar.ac -72.88326 41.26649 7.16 55.14
+OBJECT_SHARED Models/lib/MedHangar.ac -72.88281 41.26737 7.30 329.37
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -72.89167 41.26899 7.83 229.47
+# END dsf2stg
