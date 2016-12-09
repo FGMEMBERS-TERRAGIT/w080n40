@@ -32,3 +32,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.405964 40.245575 279.48 15.6
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.401761 40.246471 250.11 15.62
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.400215 40.246801 247.17 15.27
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -76.391053 40.248663 249.93 16.29
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/FireStationLg.ac -76.30311 40.12520 115.61 330.53
+# END dsf2stg

@@ -1,3 +1,8 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -76.633056 42.295 429.83 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -76.62525 42.329 389.33 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -76.605278 42.363611 338.97 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -76.72661 42.36757 -0.66 86.38
+# END dsf2stg
