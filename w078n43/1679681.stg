@@ -66,3 +66,5 @@ OBJECT_SHARED Models/Power/generic_pylon_25m.ac -77.683889 43.12 164.63 180
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -77.683333 43.120556 164.88 180
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -77.682778 43.121389 165.13 180
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -77.682222 43.121944 165.47 180
+OBJECT_SHARED Models/Residential/germanvillagehouse2.xml -77.684691 43.084373 165.7 90
+OBJECT_SHARED Models/Transport/bus.xml -77.675958 43.083057 158.95 270

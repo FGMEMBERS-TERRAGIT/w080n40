@@ -7,3 +7,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -71.257778 46.659722 -18.66
 OBJECT_SHARED Models/Power/generic_pylon_200m.ac -71.296667 46.748611 17.03 180
 OBJECT_SHARED Models/Power/generic_pylon_200m.ac -71.293889 46.74 -0.01 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -71.2964215 46.7497568 48.91 166.67
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -71.3291703 46.7300401 -2.4 0
