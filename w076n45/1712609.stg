@@ -1,4 +1,4 @@
-OBJECT_SHARED Models/Airport/ndb.ac -75.5625 45.521944 65.53 180
+OBJECT_SHARED Models/Airport/ndb.ac -75.562959 45.520465 62.67 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -75.746389 45.518056 -14.68 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -75.5675 45.503333 -87.75 180
 # dsf2stg

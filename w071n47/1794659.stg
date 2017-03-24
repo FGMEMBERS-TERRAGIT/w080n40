@@ -17,3 +17,4 @@ OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -70.23397 47.59973 286.70 25.
 OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -70.23420 47.59976 286.60 98.37
 OBJECT_SHARED Models/lib/SmHangar.ac -70.23451 47.60024 286.64 144.36
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -70.1400965 47.6228802 -1.37 0
