@@ -23,3 +23,8 @@ OBJECT_SHARED Models/Airport/marker.ac -75.891233 42.104742 258.1 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.974167 42.111667 -167.31 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.997543 42.080474 404.03 27.75
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -75.992099 42.085992 384.44 53.79
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangar81x16.ac -75.75972 42.00029 264.92 124
+# END dsf2stg
