@@ -30,10 +30,10 @@ OBJECT_SHARED Models/Airport/marker.ac -73.087875 40.807317 32.38 180
 OBJECT_SHARED Models/Airport/marker.ac -73.039542 40.84265 74.54 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -73.190278 40.759722 -416.16 180
 OBJECT_SHARED Models/Power/generic_pylon_200m.ac -73.078333 40.819444 37.04 180
-OBJECT_SHARED Models/Power/generic_pylon_100m.ac -73.123333 40.814722 37.9 180
-OBJECT_SHARED Models/Power/generic_pylon_100m.ac -73.081111 40.812222 35.34 180
 OBJECT_SHARED Models/Airport/localizer.xml -73.113842 40.787575 24.6 314.88
 OBJECT_SHARED Models/Airport/localizer.xml -73.093158 40.803297 28.53 134.9
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -73.123333 40.814722 37.9 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -73.081111 40.812222 35.34 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -73.078693 40.859138 28.04 94.82
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -73.07856 40.857944 28.06 92.94
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -73.078522 40.856403 28.04 91.73

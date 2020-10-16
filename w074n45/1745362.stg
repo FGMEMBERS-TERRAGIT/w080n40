@@ -503,3 +503,4 @@ OBJECT_SHARED Models/Airport/cargoim.xml -73.28252 45.29725 42.27 313.2
 OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -73.28039 45.29917 40.84 358.03
 OBJECT_SHARED Models/StreetFurniture/trash-container.ac -73.28037 45.29934 40.81 181.23
 # END dsf2stg
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.282902 45.295964 41.02 45

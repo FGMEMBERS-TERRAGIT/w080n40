@@ -43,3 +43,5 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.010459 43.131491 129.57 356.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.004196 43.131219 136.09 356.6
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.003803 43.131202 135.03 355.08
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.001243 43.130991 130.09 356.68
+OBJECT_SHARED Models/Aircraft/Cessna172_fr_reg.xml -77.119233 43.235472 126.17 1
+OBJECT_SHARED Models/Airport/windsock.xml -77.120054 43.235257 126.43 0

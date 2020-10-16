@@ -272,6 +272,11 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -79.2613458 43.7494903 159 220.1
 OBJECT_SHARED Models/Airport/4m90_HelipadCollar.ac -79.378611 43.646944 80.09 0
 OBJECT_SHARED Models/Commercial/tower-grey-black.ac -79.378611 43.646944 80.09 0
 OBJECT_SHARED Models/Commercial/tower-square-dark.ac -79.388889 43.671944 113 0
+OBJECT_SHARED Models/Maritime/Civilian/black-sailing-boat.ac -79.364891 43.628807 69.95 0
+OBJECT_SHARED Models/Sport/terrain_de_foot_generic.ac -79.353454 43.679993 113.29 0
+OBJECT_SHARED Models/Commercial/4com_eghh.ac -79.375577 43.640858 75.17 0
+OBJECT_SHARED Models/Commercial/4com_eghh.ac -79.353926 43.680707 113.48 0
+OBJECT_SHARED Models/Maritime/Civilian/fireboat-massport.ac -79.387121 43.637597 74.64 0
 OBJECT_STATIC cn-tower.xml -79.387222 43.6425 79.85 180
 # dsf2stg
 # do not edit below this line

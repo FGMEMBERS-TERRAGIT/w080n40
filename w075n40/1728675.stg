@@ -21,4 +21,5 @@ OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -74.206389 40.620833 -431
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -74.206389 40.621389 -431.42 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -74.206389 40.621667 -431.42 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -74.199444 40.591389 -345.42 180
+OBJECT_SHARED Models/Maritime/Civilian/ContainerShip.xml -74.027939 40.542472 -1.76 0
 OBJECT_STATIC verrazano.xml -74.0523431 40.6040503 0.14 112.9

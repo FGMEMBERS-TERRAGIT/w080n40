@@ -66,6 +66,7 @@ OBJECT_SHARED Models/Power/generic_pylon_25m.ac -77.683889 43.12 164.63 180
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -77.683333 43.120556 164.88 180
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -77.682778 43.121389 165.13 180
 OBJECT_SHARED Models/Power/generic_pylon_25m.ac -77.682222 43.121944 165.47 180
+OBJECT_SHARED Models/Airport/Vehicle/fedextruck.xml -77.657536 43.119413 161.94 310
 OBJECT_SHARED Models/Residential/germanvillagehouse2.xml -77.684691 43.084373 165.7 90
 OBJECT_SHARED Models/Transport/bus.xml -77.675958 43.083057 158.95 270
 # dsf2stg
@@ -144,3 +145,4 @@ OBJECT_SHARED Models/lib/office32x25.ac -77.65915 43.11982 162.50 115.82
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -77.67043 43.11493 164.47 0
 OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -77.65916 43.11926 161.91 0
 # END dsf2stg
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac -77.672777 43.117944 162.75 0

@@ -51,3 +51,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -74.381031 40.08235 46.17 221.08
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -74.380189 40.082863 45.25 218.17
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -74.378789 40.083694 43.34 217.79
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -74.374593 40.086183 37.54 217.79
+OBJECT_SHARED Models/Military/tower-usaf-40m.xml -74.347728 40.032494 25.39 330
+OBJECT_SHARED Models/Airport/helipad_square.xml -74.340191 40.038244 29.09 310
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -74.333737 40.028148 20.31 0
+OBJECT_SHARED Models/Airport/tower.xml -74.393631 40.023392 31.39 30
+OBJECT_SHARED Models/Military/EGYP-BA17.ac -74.332493 40.026933 19.98 30

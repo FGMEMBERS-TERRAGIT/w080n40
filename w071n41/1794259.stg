@@ -28,3 +28,5 @@ OBJECT_SHARED Models/Airport/Avgas_Pump.ac -70.06502 41.25617 11.22 133.58
 OBJECT_SHARED Models/lib/fboModern1.ac -70.06306 41.25750 11.90 224.11
 OBJECT_SHARED Models/lib/LongRow.ac -70.06039 41.25916 12.76 134.33
 # END dsf2stg
+OBJECT_SHARED Models/Aircraft/ERJ145_services.xml -70.063757 41.25815 11.73 240
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.059428 41.255065 12.04 0
