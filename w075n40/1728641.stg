@@ -17,3 +17,4 @@ OBJECT_SHARED Models/Communications/vordme_1.xml -74.596333 40.0095 35.56 180
 OBJECT_SHARED Models/Airport/marker.ac -74.600433 40.002336 38.51 180
 OBJECT_SHARED Models/Airport/localizer.xml -74.600275 40.002331 38.46 315.73
 OBJECT_SHARED Models/Airport/localizer.xml -74.567967 40.026461 30.95 135.65
+OBJECT_SHARED Models/Aircraft/KC-135-lowpoly.xml -74.606926 40.023363 36.41 70

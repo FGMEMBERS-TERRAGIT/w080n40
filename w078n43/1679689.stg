@@ -46,4 +46,5 @@ OBJECT_SHARED Models/Power/generic_pylon_100m.ac -77.676667 43.128333 167.31 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -77.676111 43.128889 167.85 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -77.675556 43.130556 168.01 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -77.675556 43.130833 167.99 180
+OBJECT_SHARED Models/Industrial/GenericStorageTank30m.ac -77.65531 43.126934 169.24 0
 OBJECT_SHARED Models/Airport/localizer.xml -77.669958 43.127978 167.15 121.56

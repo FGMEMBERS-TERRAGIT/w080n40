@@ -13,3 +13,5 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -70.064167 41.259167 -4
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -70.051386 41.258522 -474.99 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -70.050836 41.2587 -475.32 180
 OBJECT_SHARED Models/Airport/localizer.xml -70.053319 41.261431 15.8 134.91
+OBJECT_SHARED Models/Aircraft/ERJ145_services.xml -70.063757 41.25815 11.73 240
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.059428 41.255065 12.04 0

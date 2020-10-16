@@ -6,3 +6,4 @@ OBJECT_SHARED Models/Communications/vordme_1.xml -70.214144 42.075931 2 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -70.037269 42.017172 0 180
 OBJECT_SHARED Models/Misc/generic_monument_01.ac -70.188611 42.052222 -121.06 180
 OBJECT_SHARED Models/Airport/localizer.xml -70.213267 42.075586 1.98 149.22
+OBJECT_SHARED Models/Airport/windsock.xml -70.218698 42.074212 1.68 0

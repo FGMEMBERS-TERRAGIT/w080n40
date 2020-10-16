@@ -20,3 +20,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -73.4361349 45.3660392 23.84 226
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -73.4325386 45.3686985 24.93 226.26
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -73.4290882 45.3712129 25.58 226.47
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -73.4253117 45.3740468 24.41 226.74
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.282902 45.295964 41.02 45

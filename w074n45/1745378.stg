@@ -1,5 +1,7 @@
 OBJECT_SHARED Models/Airport/ndb.ac -73.346667 45.564167 25.62 180
 OBJECT_SHARED Models/Airport/tacan.xml -73.414894 45.516986 26.5 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -73.431944 45.514167 -141.63 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -73.325278 45.556944 49.52 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -73.327067 45.556364 46.84 180
+OBJECT_SHARED Models/Communications/tower-microwave-1.xml -73.327131 45.556064 191.91 0
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -73.416374 45.515768 26.75 312
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -73.4904649 45.5990678 4.6 0
