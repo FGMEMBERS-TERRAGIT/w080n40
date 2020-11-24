@@ -45,3 +45,15 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.003803 43.131202 135.03 355.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -77.001243 43.130991 130.09 356.68
 OBJECT_SHARED Models/Aircraft/Cessna172_fr_reg.xml -77.119233 43.235472 126.17 1
 OBJECT_SHARED Models/Airport/windsock.xml -77.120054 43.235257 126.43 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/NoParkStripes.xml -77.12042 43.23632 0.00 0
+OBJECT_SHARED Models/lib/HorizTanks2.ac -77.12042 43.23635 125.96 90
+OBJECT_SHARED Models/lib/SmHangar.ac -77.12010 43.23625 125.96 90
+OBJECT_SHARED Models/lib/shed10x50.ac -77.11823 43.23395 125.97 81.42
+OBJECT_SHARED Models/lib/SmHangar.ac -77.11907 43.23600 127.97 90
+OBJECT_SHARED Models/lib/SmHangar.ac -77.11827 43.23359 125.95 260.97
+OBJECT_SHARED Models/lib/LongRow.ac -77.11769 43.23420 128.50 0.300003
+OBJECT_SHARED Models/lib/MedHangar.ac -77.12116 43.23606 127.45 90
+# END dsf2stg

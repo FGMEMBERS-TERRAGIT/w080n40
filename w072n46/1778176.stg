@@ -2,3 +2,12 @@ OBJECT_SHARED Models/Airport/ndb.ac -71.927067 46.110597 142.71 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -71.929444 46.010278 161.58 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -71.929167 46.011944 158.39 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -71.927778 46.011944 104.27 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/HorizTanks2.ac -71.92570 46.11360 0.00 315.661
+OBJECT_SHARED Models/lib/MedHangar.ac -71.92422 46.11467 142.20 315.89
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92598 46.11340 142.00 315.72
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92619 46.11325 142.17 315.72
+OBJECT_SHARED Models/lib/SmHangar.ac -71.92640 46.11310 142.18 315.72
+# END dsf2stg

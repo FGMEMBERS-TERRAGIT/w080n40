@@ -1,3 +1,8 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -72.237444 41.940028 130.49 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -72.198056 41.974444 239.99 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -72.018639 41.96225 104.32 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -72.18249 41.95340 0.00 6.63
+# END dsf2stg

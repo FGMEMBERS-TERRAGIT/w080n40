@@ -74,3 +74,17 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -71.158278 43.741796 153.22 253.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -71.158243 43.747779 155.26 333.35
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -71.15741 43.74398 148.1 261.36
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -71.157298 43.747643 153.37 308.73
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/picnic_table.ac -71.14544 43.65059 0.00 320.44
+OBJECT_SHARED Models/Misc/picnic_table.ac -71.15006 43.65317 287.51 320.44
+OBJECT_SHARED Models/Misc/picnic_table.ac -71.14846 43.65244 292.93 320.44
+OBJECT_SHARED Models/Misc/picnic_table.ac -71.15076 43.65361 291.52 320.44
+OBJECT_SHARED Models/Misc/picnic_table.ac -71.15380 43.65603 293.56 320.44
+OBJECT_SHARED Models/Misc/picnic_table.ac -71.14897 43.65262 292.73 320.44
+OBJECT_SHARED Models/Misc/picnic_table.ac -71.15127 43.65379 291.96 320.44
+OBJECT_SHARED Models/Misc/picnic_table.ac -71.15263 43.65494 293.70 320.44
+OBJECT_SHARED Models/Misc/picnic_table.ac -71.14941 43.65287 293.80 320.44
+OBJECT_SHARED Models/Misc/picnic_table.ac -71.15178 43.65408 292.48 320.44
+# END dsf2stg

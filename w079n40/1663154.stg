@@ -112,3 +112,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.314569 40.86235 489.05 8.41
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.312928 40.862624 479.9 0.32
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.312264 40.862519 478.9 334.89
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -78.30982 40.861053 469.53 321.58
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fboModern1.ac -78.26249 40.85715 0.00 237.47
+# END dsf2stg

@@ -11,3 +11,9 @@ OBJECT_SHARED Models/Communications/radome-16m.xml -79.415355 46.356466 350.22 0
 OBJECT_SHARED Models/Communications/radome-16m.xml -79.414996 46.35644 349.2 0
 OBJECT_SHARED Models/Airport/localizer.xml -79.399452 46.370972 365.84 154.75
 OBJECT_SHARED Models/Airport/EIDW_Radar.ac -79.413477 46.373586 363.87 45
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -79.39910 46.33089 0.00 72.85
+OBJECT_SHARED Models/lib/SmHangar.ac -79.40223 46.33138 -1000.00 86.05
+# END dsf2stg

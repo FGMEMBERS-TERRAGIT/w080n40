@@ -13,3 +13,8 @@ OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -73.083029 41.347522 -439
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -73.082526 41.348034 -434.42 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -73.082437 41.347589 -435.31 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -73.077222 41.336667 -437.78 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fuel-truck.xml -73.09220 41.25490 0.00 56.98
+# END dsf2stg

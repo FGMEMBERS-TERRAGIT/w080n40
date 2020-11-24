@@ -3,3 +3,9 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -71.138889 41.598611 -35.95
 OBJECT_SHARED Models/Communications/radio-medium.xml -71.005083 41.580667 -120.81 180
 OBJECT_SHARED Models/Communications/radio-tall.xml -71.189444 41.596667 -282.57 180
 OBJECT_SHARED Models/Airport/marker.ac -71.017667 41.621561 27.13 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/dGreenhse.ac -71.14168 41.57885 0.00 292.834
+OBJECT_SHARED Models/lib/4container-office.ac -71.14156 41.57921 29.32 113.724
+# END dsf2stg

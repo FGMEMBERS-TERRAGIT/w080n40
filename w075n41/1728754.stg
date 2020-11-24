@@ -23,3 +23,9 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -74.297599 41.759843 196.54 274.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -74.297589 41.759701 198.27 137.16
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -74.297268 41.755889 243.17 273.59
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -74.296786 41.750156 283.19 273.01
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -74.33232 41.86528 0.00 131.633
+OBJECT_SHARED Models/lib/SmHangar.ac -74.33382 41.86506 313.65 248.831
+# END dsf2stg

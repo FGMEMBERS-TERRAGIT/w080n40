@@ -23,3 +23,13 @@ OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -74.206389 40.621667 -431
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -74.199444 40.591389 -345.42 180
 OBJECT_SHARED Models/Maritime/Civilian/ContainerShip.xml -74.027939 40.542472 -1.76 0
 OBJECT_STATIC verrazano.xml -74.0523431 40.6040503 0.14 112.9
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -74.24467 40.61478 0.00 14.28
+OBJECT_SHARED Models/lib/LongRow.ac -74.24454 40.61441 6.46 14.37
+OBJECT_SHARED Models/lib/LongRow.ac -74.24442 40.61404 6.37 14.53
+OBJECT_SHARED Models/lib/LongRow.ac -74.24429 40.61367 6.25 14.4
+OBJECT_SHARED Models/lib/HorizTanks2.ac -74.24487 40.61586 6.15 194.53
+OBJECT_SHARED Models/lib/HorizTanks2.ac -74.24493 40.61604 6.58 194.05
+# END dsf2stg

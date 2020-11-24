@@ -1,2 +1,7 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -78.61 43.9275 11.91 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -78.701389 43.879444 -308.94 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -78.59084 43.97542 0.00 19.4157
+# END dsf2stg

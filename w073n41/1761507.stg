@@ -11,3 +11,8 @@ OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -72.064444 41.526667 -452
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -72.041667 41.584167 -384.58 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -72.204561 41.603061 76.62 263.83
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -72.204229 41.605358 69.26 263.83
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/4container-office.ac -72.20087 41.56323 0.00 152.24
+# END dsf2stg
